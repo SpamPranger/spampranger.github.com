@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://SpamPranger.github.io/sitemap.xml 
